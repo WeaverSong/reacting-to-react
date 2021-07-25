@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(40, 167, 40);
+    padding: 1em 2em;
+    border-radius: 5px;
+    font-size: 120%;
+    box-shadow: 2px 2px 1px black;
+}
+
+button:hover {
+    background-color: rgb(144, 238, 144);
+    transform: translateY(2px);
+}
+
+.card {
+    background-color: lightblue;
+    border-radius: 15px;
+    border: black 2px solid;
+    text-align: center;
+    display: inline-block;
+    max-width: 20em;
+}
+
+.title {
+    font-size: 150%;
+    text-shadow: 1px 1px 2px black;
+    padding-bottom: 20px;
+}
+
+.Greeter {
+    margin: 1px 5px;
+    padding: 0;
+}
